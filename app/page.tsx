@@ -4,7 +4,7 @@ import KeyFeatures from "@/app/components/KeyFeatures";
 import IdealFor from "@/app/components/IdealFor";
 import Gallery from "@/app/components/Gallery";
 import Location from "@/app/components/Location";
-import EnquirySection from "@/app/components/EnquirySection";
+import WhatsAppCTA from "@/app/components/WhatsAppCTA";
 import Footer from "@/app/components/Footer";
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
         <IdealFor />
         <Gallery />
         <Location />
-        <EnquirySection />
+        <WhatsAppCTA />
       </main>
       <Footer />
     </div>
