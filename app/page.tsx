@@ -3,6 +3,7 @@ import Overview from "@/app/components/Overview";
 import KeyFeatures from "@/app/components/KeyFeatures";
 import IdealFor from "@/app/components/IdealFor";
 import Gallery from "@/app/components/Gallery";
+import VideoTour from "@/app/components/VideoTour";
 import Location from "@/app/components/Location";
 import WhatsAppCTA from "@/app/components/WhatsAppCTA";
 import Footer from "@/app/components/Footer";
@@ -16,6 +17,7 @@ export default function Home() {
         <KeyFeatures />
         <IdealFor />
         <Gallery />
+        <VideoTour />
         <Location />
         <WhatsAppCTA />
       </main>
